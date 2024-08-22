@@ -14,10 +14,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- I’m working as a Senior IT consultant and building large scale web applications.
-- Authoring and blogging about emerging technologies.
-- Share knowledge through meetups and twitter.
+A seasoned .NET developer with a focus on both frontend and backend development, boasting over 8 years of extensive experience across all phases of dynamic web project development. Proficient in C#, ASP.NET, .NET Core, MVC, REST API, SQL Server, JavaScript, and Angular. Exhibits strong communication, problem-solving, and adaptability skills, fostering collaboration. Adapts effectively to changing environments. Contributes positively to team dynamics and pays meticulous attention to detail. Committed to ongoing learning and staying updated with industry trends and best practices.
 
 #### :fire: My Stats :
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
