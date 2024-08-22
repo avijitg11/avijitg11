@@ -4,12 +4,6 @@
     <a href="https://www.linkedin.com/in/avijitghosh11">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<!--     <a href="https://twitter.com/SudheerJonna">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.sudheerjonna.com">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
-    </a> -->
   </div>
 </div>
 
@@ -17,9 +11,7 @@
 A seasoned .NET developer with a focus on both frontend and backend development, boasting over 8 years of extensive experience across all phases of dynamic web project development. Proficient in C#, ASP.NET, .NET Core, MVC, REST API, SQL Server, JavaScript, and Angular. Exhibits strong communication, problem-solving, and adaptability skills, fostering collaboration. Adapts effectively to changing environments. Contributes positively to team dynamics and pays meticulous attention to detail. Committed to ongoing learning and staying updated with industry trends and best practices.
 
 #### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
+
 
 <a href="https://github.com/sudheerj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
@@ -30,7 +22,7 @@ A seasoned .NET developer with a focus on both frontend and backend development,
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
