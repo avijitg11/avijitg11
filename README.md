@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Avijit Ghosh.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/avijitghosh11" target="_blank">
+    <a href="https://www.linkedin.com/in/avijitghosh11">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -13,10 +13,10 @@ A seasoned .NET developer with a focus on both frontend and backend development,
 #### :fire: My Stats :
 
 
-<a href="https://github.com/avijitghosh11" target="_blank">
+<a href="https://github.com/avijitghosh11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitghosh11&theme=light&count_private=true&layout=compact" width="205" alt="Avijit's most used languages" />
 </a>
-<a href="https://github.com/avijitghosh11" target="_blank">
+<a href="https://github.com/avijitghosh11">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avijitghosh11&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Avijit's github stats"/>
 </a>
 
