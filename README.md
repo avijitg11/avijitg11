@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Avijit Ghosh.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/avijitghosh11">
+    <a href="https://www.linkedin.com/in/avijitg11">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
