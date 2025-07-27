@@ -13,7 +13,7 @@ A seasoned .NET developer with a focus on both frontend and backend development,
 #### :fire: My Stats :
 
 
-<a href="https://github.com/avijitghosh11">
+<a href="https://github.com/avijitg11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitghosh11&theme=light&count_private=true&layout=compact" width="205" alt="Avijit's most used languages" />
 </a>
 <!-- <a href="https://github.com/avijitghosh11">
