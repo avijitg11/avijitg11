@@ -8,7 +8,11 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-A seasoned .NET developer with a focus on both frontend and backend development, boasting over 9 years of extensive experience across all phases of dynamic web project development. Proficient in C#, ASP.NET, .NET Core, MVC, REST API, SQL Server, JavaScript, and Angular. Exhibits strong communication, problem-solving, and adaptability skills, fostering collaboration. Adapts effectively to changing environments. Contributes positively to team dynamics and pays meticulous attention to detail. Committed to ongoing learning and staying updated with industry trends and best practices.
+I’m a seasoned .NET developer with 9+ years of experience building scalable, high-performance web applications across both backend and frontend layers. I specialize in C#, ASP.NET, .NET Core, MVC, RESTful APIs, and SQL Server, with solid hands-on experience in JavaScript and Angular for modern UI development.
+
+I’ve worked across the full software development lifecycle — from requirement analysis and system design to implementation, optimization, and production support — primarily in enterprise and business-critical environments. I value clean architecture, maintainable code, and pragmatic problem-solving.
+
+Known for strong communication and collaboration skills, I adapt quickly to changing requirements and enjoy working with cross-functional teams. I’m committed to continuous learning and staying current with evolving technologies and best practices in the .NET ecosystem.
 
 #### :fire: My Stats :
 
