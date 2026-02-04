@@ -20,20 +20,6 @@ A seasoned .NET developer with a focus on both frontend and backend development,
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avijitg11&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Avijit's github stats"/>
 </a>
 
-<a href="https://github.com/avijitg11">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijitg11&layout=compact&theme=dark&hide=html,css&cache_seconds=1800"
-    alt="Avijit's most used languages"
-  />
-</a>
-
-<a href="https://github.com/avijitg11">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=avijitg11&show_icons=true&theme=dark&include_all_commits=true&hide=issues,prs"
-    alt="Avijit's GitHub stats"
-  />
-</a>
-
 #### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
