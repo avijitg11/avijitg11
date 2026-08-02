@@ -21,7 +21,7 @@ Known for strong communication and collaboration skills, I adapt quickly to chan
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=avijitg11&theme=light&layout=compact" width="205" alt="Avijit's most used languages" />
 </a>
 <a href="https://github.com/avijitg11">
- <img align="center" src="https://github-stats-extended.vercel.app/api?username=avijitg11&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,stars,contribs" width="350" alt="Avijit's github stats"/>
+ <img align="center" src="https://github-stats-extended.vercel.app/api?username=avijitg11&show_icons=true&theme=light&line_height=27&include_all_commits=true&hide_rank=true&count_private=true&hide=issues,stars,contribs" width="350" alt="Avijit's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
